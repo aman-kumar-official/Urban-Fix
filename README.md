@@ -1,6 +1,6 @@
-# 🚀 Nagrik-Sahyog - Smart Urban Issue Reporting & Management
+# 🚀 UrbanFix - Smart Urban Issue Reporting & Management
 
-Nagrik-Sahyog is a modern, AI-powered full-stack platform for citizens and administrators to report, track, and resolve urban infrastructure issues. Built for hackathons, city challenges, and real-world deployment.
+UrbanFix is a modern, AI-powered full-stack platform for citizens and administrators to report, track, and resolve urban infrastructure issues. Built for hackathons, city challenges, and real-world deployment.
 
 ---
 ## Screenshots
@@ -131,13 +131,13 @@ This project is part of a hackathon submission for urban infrastructure manageme
 **Happy coding! 🎉**
 
 
-# 🚀 Nagrik-Sahyog - Smart Urban Issue Reporting & Management
+# 🚀 UrbanFix - Smart Urban Issue Reporting & Management
 
 <p align="center">
-   <img src="admin/public/admin.png" alt="Nagrik-Sahyog Admin Dashboard" width="80" />
+   <img src="admin/public/admin.png" alt="UrbanFix Admin Dashboard" width="80" />
 </p>
 
-**Nagrik-Sahyog** is a modern, AI-powered full-stack platform for citizens and administrators to report, track, and resolve urban infrastructure issues. Built for hackathons, city challenges, and real-world deployment.
+**UrbanFix** is a modern, AI-powered full-stack platform for citizens and administrators to report, track, and resolve urban infrastructure issues. Built for hackathons, city challenges, and real-world deployment.
 
 ---
 
@@ -212,7 +212,7 @@ This project is part of a hackathon submission for urban infrastructure manageme
 ## 🏗️ Architecture & Project Structure
 
 ```
-Nagrik-Sahyog/
+UrbanFix/
 ├── frontend/    # React user app
 ├── admin/       # React admin portal
 ├── backend/     # Node.js/Express API
@@ -667,7 +667,7 @@ backend/src/
 
 **Backend** (`backend/.env`):
 ```env
-MONGODB_URI=mongodb://localhost:27017/Nagrik-Sahyog
+MONGODB_URI=mongodb://localhost:27017/urbanfix
 PORT=5000
 NODE_ENV=development
 FRONTEND_URL=http://localhost:5173
